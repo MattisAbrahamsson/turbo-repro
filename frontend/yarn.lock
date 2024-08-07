@@ -187,9 +187,9 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"@repo/lms@workspace:apps/web":
+"@repo/web@workspace:apps/web":
   version: 0.0.0-use.local
-  resolution: "@repo/lms@workspace:apps/web"
+  resolution: "@repo/web@workspace:apps/web"
   dependencies:
     "@repo/components": "npm:*"
     "@types/react": "npm:18.2.38"

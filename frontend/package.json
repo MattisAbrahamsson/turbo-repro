@@ -7,7 +7,7 @@
         "packages/components"
     ],
     "scripts": {
-        "dev": "turbo watch dev dev:generate-css-module-declarations",
+        "dev": "turbo watch dev dev:generate-css-module-declarations -vv",
         "dev:generate-css-module-declarations": "echo 'Hello World'"
     },
     "devDependencies": {

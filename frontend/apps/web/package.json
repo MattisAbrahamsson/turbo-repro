@@ -1,5 +1,5 @@
 {
-    "name": "@repo/lms",
+    "name": "@repo/web",
     "version": "2.30.0",
     "private": true,
     "dependencies": {
